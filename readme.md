@@ -1,8 +1,8 @@
-<p align="center"><img width=12.5% src="https://github.com/whois-team/brand/blob/master/png/whoisteam_black.png"></p>
+<p align="center"><img width=80% src="https://github.com/whois-team/brand/blob/master/png/whoisteam_black.png"></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### Overview
+## Overview
 
 Illustrator & logo files for WhoisTeam
 
@@ -12,8 +12,8 @@ Illustrator & logo files for WhoisTeam
 
 `svg` - Folder containing scalable vector graphics
 
-### Logos
+## Logos
 
-<p align="center"><img width=60% src="https://github.com/whois-team/brand/blob/master/png/whoisteam_black.png"></p>
+<img width=60% src="https://github.com/whois-team/brand/blob/master/png/whoisteam_black.png">
 
-<p align="center"><img width=60% src="https://github.com/whois-team/brand/blob/master/png/whoisdigger_black.png"></p>
+<img width=60% src="https://github.com/whois-team/brand/blob/master/png/whoisdigger_black.png">
