@@ -17,8 +17,16 @@ Illustrator & logo files for WhoisTeam
 
 `svg` - Folder containing scalable vector graphics
 
+
 ## Logos
 
 <img width=60% src="https://github.com/whois-team/brand/blob/master/png/whoisteam_black.png">
 
 <img width=60% src="https://github.com/whois-team/brand/blob/master/png/whoisdigger_black.png">
+
+
+## License
+
+Distributed under MIT License. See `license.md` for more information.
+
+Additionally when using WhoisTeam or other GitHub Logos, please refer to [GitHub logo guidelines](https://github.com/logos).
