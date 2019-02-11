@@ -9,6 +9,10 @@ Illustrator & logo files for WhoisTeam
 
 `brand.ai` - Illustrator file
 
+`brand.pdf` - Portable Document Format file
+
+`brand.svg` - Scalable Vector Graphics file
+
 `png` - Folder containing 1000px wide logos
 
 `svg` - Folder containing scalable vector graphics
