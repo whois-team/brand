@@ -1,7 +1,6 @@
 <p align="center"><img width=80% src="https://github.com/whois-team/brand/blob/master/png/whoisteam_black.png"></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![License](https://img.shields.io/github/license/whois-team/brand.svg?style=flat)](https://opensource.org/licenses/MIT)
+<img src="https://img.shields.io/github/license/whois-team/brand.svg?style=flat" href="https://opensource.org/licenses/MIT">
 
 
 ## Overview
