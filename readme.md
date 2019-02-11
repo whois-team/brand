@@ -1,6 +1,6 @@
 <p align="center"><img width=60% src="https://github.com/whois-team/brand/blob/master/png/whoisteam_black.png"></p>
 
-<p align="center"><a href="https://www.adobe.com/devnet/pdf/pdf_reference_archive.html"><img src="https://img.shields.io/badge/PDF-1.5-blue.svg"></a>  <a href="https://www.w3.org/TR/SVG11/"><img src="https://img.shields.io/badge/SVG-1.1-blue.svg"></a>  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/whois-team/brand.svg?style=flat"></a></p>
+<p align="center"><a href="https://www.adobe.com/devnet/pdf/pdf_reference_archive.html"><img src="https://img.shields.io/badge/PDF-1.5-blue.svg"></a>  <a href="https://www.w3.org/TR/SVG11/"><img src="https://img.shields.io/badge/SVG-1.1-blue.svg"></a>  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT%20%2B%20Custom-green.svg"></a></p>
 
 
 ## Overview
