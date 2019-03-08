@@ -10,7 +10,9 @@
 	.st4{fill:#242424;}
 	.st5{font-family:'Cousine-Regular';}
 	.st6{font-size:30.7489px;}
-	.st7{font-family:'FontAwesome5FreeSolid';}
+	.st7{font-family:'BarlowCondensed-Italic';}
+	.st8{font-family:'Barlow-Thin';}
+	.st9{font-family:'FontAwesome5FreeSolid';}
 </style>
 <g id="Camada_2">
 	<rect x="420.9" class="st0" width="420.9" height="595.3"/>
@@ -534,8 +536,10 @@
 			568.9,224.4 569.5,222.6 		"/>
 	</g>
 	<text transform="matrix(1 0 0 1 123.4833 324.4397)" class="st5 st6">_WHOISDIGGER</text>
-	<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 96.748 297.6379)" class="st7 st6"></text>
+	<text transform="matrix(1 0 0 1 162.1068 393.7726)"><tspan x="0" y="0" class="st7 st6">ROUTE</tspan><tspan x="66.4" y="0" class="st8 st6">43</tspan></text>
+	<text transform="matrix(1 0 0 1 605.4398 389.7726)"><tspan x="0" y="0" class="st2 st7 st6">ROUTE</tspan><tspan x="66.4" y="0" class="st2 st8 st6">43</tspan></text>
+	<text transform="matrix(0 1 -1 0 96.748 297.6379)" class="st9 st6"></text>
 	<text transform="matrix(1 0 0 1 554.9198 324.4395)" class="st2 st5 st6">_WHOISDIGGER</text>
-	<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 528.1844 297.6377)" class="st2 st7 st6"></text>
+	<text transform="matrix(0 1 -1 0 528.1844 297.6377)" class="st2 st9 st6"></text>
 </g>
 </svg>
